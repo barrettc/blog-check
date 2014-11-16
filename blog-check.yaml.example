@@ -6,9 +6,6 @@ from: +15551234567
 # URL to check
 url: http://someblog.blogspot.com/feeds/posts/default
 
-# How long (in seconds) to sleep between checks
-sleep: 60
-
 recipients:
   - +15558675309
   - +15551112222
