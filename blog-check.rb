@@ -1,3 +1,4 @@
+#!/usr/bin/ruby
 require 'twilio-ruby'
 require 'rss'
 require 'yaml'
